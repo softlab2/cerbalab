@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TKKPG>
+<Request>
+<Operation>CreateOrder</Operation>
+<Language>RU</Language>
+<Order>
+<Merchant>55079</Merchant>
+<OrderType>Purchase</OrderType>
+<Amount>300000</Amount>
+<Currency>643</Currency>
+<Description>Оплата покупки</Description>
+<ApproveURL>http://lm.cerbalab.ru/approve</ApproveURL>
+<CancelURL>http://lm.cerbalab.ru/cancel</CancelURL>
+<DeclineURL>http://lm.cerbalab.ru/decline</DeclineURL>
+<AddParams>
+<SenderEmail>net0@mail.ru</SenderEmail>
+</AddParams>
+</Order>
+</Request>
+</TKKPG>

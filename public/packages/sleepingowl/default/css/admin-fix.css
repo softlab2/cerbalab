@@ -1,0 +1,11 @@
+.dd3-fix{
+    white-space: nowrap; /* Запрещаем перенос строк */
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.dd3-content{
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+

@@ -1,0 +1,11 @@
+<TKKPG>
+<Request>
+<Operation>GetOrderStatus</Operation>
+<Language>RU</Language>
+<Order>
+<Merchant>{{$merchantId}}</Merchant>
+<OrderID>{{$orderId}}</OrderID>
+</Order>
+<SessionID>{{$sessionId}}</SessionID>
+</Request>
+</TKKPG>

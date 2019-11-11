@@ -1,0 +1,11 @@
+<TKKPG>
+    <Response>
+        <Operation>CreateOrder</Operation>
+            <Status>00</Status>
+        <Order>
+        <OrderID>828</OrderID>
+        <SessionID>ECDE79578768ECFBF2897A0F44CC0CEF</SessionID>
+        <URL>{{$url}}</URL>
+        </Order>
+    </Response>
+</TKKPG>

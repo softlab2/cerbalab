@@ -1,0 +1,6 @@
+:root {
+  --main-font: {{$main_font}};
+  --main-color: {{$main_color}};
+  --alter-color: {{$alter_color}};
+  --romb-color: {{$romb_color}}
+}

@@ -1,0 +1,5 @@
+*   Trying 213.172.3.239...
+* TCP_NODELAY set
+* connect to 213.172.3.239 port 5443 failed: Connection timed out
+* Failed to connect to mpi.bspb.ru port 5443: Connection timed out
+* Closing connection 0

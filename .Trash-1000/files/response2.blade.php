@@ -1,0 +1,10 @@
+<TKKPG>
+<Response>
+<Operation>GetOrderStatus</Operation>
+<Status>00</Status>
+<Order>
+<OrderID>828</OrderID>
+<OrderStatus>APPROVED</OrderStatus>
+</Order>
+</Response>
+</TKKPG>
